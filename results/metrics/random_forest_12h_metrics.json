@@ -1,0 +1,19 @@
+{
+  "model": "random_forest",
+  "horizon": 12,
+  "auroc": 0.797,
+  "auprc": 0.0941,
+  "precision": 0.1483,
+  "recall": 0.2997,
+  "f1": 0.1984,
+  "specificity": 0.9694,
+  "fpr": 0.0306,
+  "fnr": 0.7003,
+  "tp": 1207,
+  "tn": 219775,
+  "fp": 6934,
+  "fn": 2820,
+  "threshold": 0.55,
+  "n_positive": 4027,
+  "n_negative": 226709
+}

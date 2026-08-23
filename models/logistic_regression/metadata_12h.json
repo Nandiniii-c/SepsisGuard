@@ -1,0 +1,17 @@
+{
+  "model_name": "logistic_regression",
+  "horizon_hours": 12,
+  "label_col": "label_12h",
+  "n_features": 213,
+  "threshold": 0.81,
+  "scale_pos_weight": null,
+  "train_n_pos": 18353,
+  "train_n_neg": 1048702,
+  "val_metrics": {
+    "auroc": 0.7586,
+    "auprc": 0.0842,
+    "f1": 0.1777,
+    "threshold": 0.81
+  },
+  "training_time_s": 729.58
+}

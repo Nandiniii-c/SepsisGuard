@@ -1,0 +1,19 @@
+{
+  "model": "logistic_regression",
+  "horizon": 3,
+  "auroc": 0.7643,
+  "auprc": 0.0209,
+  "precision": 0.0367,
+  "recall": 0.0952,
+  "f1": 0.053,
+  "specificity": 0.9881,
+  "fpr": 0.0119,
+  "fnr": 0.9048,
+  "tp": 104,
+  "tn": 226912,
+  "fp": 2732,
+  "fn": 988,
+  "threshold": 0.93,
+  "n_positive": 1092,
+  "n_negative": 229644
+}

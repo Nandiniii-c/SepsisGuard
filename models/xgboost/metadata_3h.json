@@ -1,0 +1,17 @@
+{
+  "model_name": "xgboost",
+  "horizon_hours": 3,
+  "label_col": "label_3h",
+  "n_features": 213,
+  "threshold": 0.6900000000000001,
+  "scale_pos_weight": 208.14445315562526,
+  "train_n_pos": 5102,
+  "train_n_neg": 1061953,
+  "val_metrics": {
+    "auroc": 0.7657,
+    "auprc": 0.0236,
+    "f1": 0.0721,
+    "threshold": 0.69
+  },
+  "training_time_s": 197.08
+}

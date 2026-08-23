@@ -1,0 +1,122 @@
+[
+  {
+    "feature": "hours_in_icu",
+    "mean_shap": 0.8041132688522339
+  },
+  {
+    "feature": "HospAdmTime",
+    "mean_shap": 0.1930360198020935
+  },
+  {
+    "feature": "Temp",
+    "mean_shap": 0.15240417420864105
+  },
+  {
+    "feature": "Unit2",
+    "mean_shap": 0.14070871472358704
+  },
+  {
+    "feature": "lactate_wbc",
+    "mean_shap": 0.09555215388536453
+  },
+  {
+    "feature": "Resp_roll6_mean",
+    "mean_shap": 0.08254948258399963
+  },
+  {
+    "feature": "SBP_roll3_std",
+    "mean_shap": 0.07970964163541794
+  },
+  {
+    "feature": "Gender",
+    "mean_shap": 0.0692414790391922
+  },
+  {
+    "feature": "Age",
+    "mean_shap": 0.0629902184009552
+  },
+  {
+    "feature": "Potassium_roll6_mean",
+    "mean_shap": 0.06035151705145836
+  },
+  {
+    "feature": "sirs_score",
+    "mean_shap": 0.055998750030994415
+  },
+  {
+    "feature": "Creatinine",
+    "mean_shap": 0.05518259480595589
+  },
+  {
+    "feature": "WBC",
+    "mean_shap": 0.054121725261211395
+  },
+  {
+    "feature": "HR",
+    "mean_shap": 0.051430076360702515
+  },
+  {
+    "feature": "Calcium_prev",
+    "mean_shap": 0.05031690374016762
+  },
+  {
+    "feature": "bun_creatinine",
+    "mean_shap": 0.04922017082571983
+  },
+  {
+    "feature": "Hgb",
+    "mean_shap": 0.04703798145055771
+  },
+  {
+    "feature": "Hct_prev",
+    "mean_shap": 0.04506034776568413
+  },
+  {
+    "feature": "Alkalinephos",
+    "mean_shap": 0.04432620108127594
+  },
+  {
+    "feature": "pH_roll6_mean",
+    "mean_shap": 0.04307810217142105
+  },
+  {
+    "feature": "Resp_roll3_std",
+    "mean_shap": 0.042959850281476974
+  },
+  {
+    "feature": "spo2_fio2",
+    "mean_shap": 0.04277827963232994
+  },
+  {
+    "feature": "Temp_roll3_std",
+    "mean_shap": 0.042713139206171036
+  },
+  {
+    "feature": "O2Sat_roll6_mean",
+    "mean_shap": 0.04261801391839981
+  },
+  {
+    "feature": "SBP_roll6_mean",
+    "mean_shap": 0.04181031882762909
+  },
+  {
+    "feature": "Temp_prev",
+    "mean_shap": 0.04136257246136665
+  },
+  {
+    "feature": "Lactate_roll3_min",
+    "mean_shap": 0.03983062505722046
+  },
+  {
+    "feature": "PTT",
+    "mean_shap": 0.03970089554786682
+  },
+  {
+    "feature": "MAP_roll6_mean",
+    "mean_shap": 0.03913862258195877
+  },
+  {
+    "feature": "Temp_roll6_mean",
+    "mean_shap": 0.03831660374999046
+  }
+]

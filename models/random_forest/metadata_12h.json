@@ -1,0 +1,17 @@
+{
+  "model_name": "random_forest",
+  "horizon_hours": 12,
+  "label_col": "label_12h",
+  "n_features": 213,
+  "threshold": 0.55,
+  "scale_pos_weight": null,
+  "train_n_pos": 18353,
+  "train_n_neg": 1048702,
+  "val_metrics": {
+    "auroc": 0.7792,
+    "auprc": 0.0841,
+    "f1": 0.1797,
+    "threshold": 0.55
+  },
+  "training_time_s": 2201.54
+}

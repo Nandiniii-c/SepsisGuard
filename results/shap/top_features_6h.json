@@ -1,0 +1,122 @@
+[
+  {
+    "feature": "hours_in_icu",
+    "mean_shap": 0.819513201713562
+  },
+  {
+    "feature": "HospAdmTime",
+    "mean_shap": 0.2090577930212021
+  },
+  {
+    "feature": "Unit2",
+    "mean_shap": 0.13104289770126343
+  },
+  {
+    "feature": "Temp",
+    "mean_shap": 0.11993686109781265
+  },
+  {
+    "feature": "sirs_score",
+    "mean_shap": 0.07701921463012695
+  },
+  {
+    "feature": "lactate_wbc",
+    "mean_shap": 0.07621125131845474
+  },
+  {
+    "feature": "Resp_roll6_mean",
+    "mean_shap": 0.07370061427354813
+  },
+  {
+    "feature": "Age",
+    "mean_shap": 0.07085220515727997
+  },
+  {
+    "feature": "Gender",
+    "mean_shap": 0.06877575069665909
+  },
+  {
+    "feature": "SBP_roll3_std",
+    "mean_shap": 0.05880334973335266
+  },
+  {
+    "feature": "bun_creatinine",
+    "mean_shap": 0.05714155361056328
+  },
+  {
+    "feature": "SBP_roll3_max",
+    "mean_shap": 0.05334889516234398
+  },
+  {
+    "feature": "Potassium_roll6_mean",
+    "mean_shap": 0.05197489634156227
+  },
+  {
+    "feature": "Calcium_prev",
+    "mean_shap": 0.05121561512351036
+  },
+  {
+    "feature": "Hgb",
+    "mean_shap": 0.04762385040521622
+  },
+  {
+    "feature": "Creatinine",
+    "mean_shap": 0.046585917472839355
+  },
+  {
+    "feature": "PTT",
+    "mean_shap": 0.044898126274347305
+  },
+  {
+    "feature": "Lactate_roll3_min",
+    "mean_shap": 0.04344049468636513
+  },
+  {
+    "feature": "HR",
+    "mean_shap": 0.04320106655359268
+  },
+  {
+    "feature": "pH_roll6_mean",
+    "mean_shap": 0.0429094024002552
+  },
+  {
+    "feature": "WBC",
+    "mean_shap": 0.04007670655846596
+  },
+  {
+    "feature": "Alkalinephos",
+    "mean_shap": 0.039348501712083817
+  },
+  {
+    "feature": "AST",
+    "mean_shap": 0.038767267018556595
+  },
+  {
+    "feature": "spo2_fio2",
+    "mean_shap": 0.03835277631878853
+  },
+  {
+    "feature": "Temp_roll6_mean",
+    "mean_shap": 0.03829578682780266
+  },
+  {
+    "feature": "shock_index",
+    "mean_shap": 0.03715473785996437
+  },
+  {
+    "feature": "HR_roll6_mean",
+    "mean_shap": 0.0366482138633728
+  },
+  {
+    "feature": "Calcium",
+    "mean_shap": 0.03657598793506622
+  },
+  {
+    "feature": "Hct",
+    "mean_shap": 0.03599868714809418
+  },
+  {
+    "feature": "SBP_roll6_mean",
+    "mean_shap": 0.035542357712984085
+  }
+]

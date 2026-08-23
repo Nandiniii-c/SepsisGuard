@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environment
+venv/
+.venv/
+env/
+.env/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Data (large files — commit only metadata)
+data/raw/*.csv
+data/raw/*.psv
+
+# Model files (large — use DVC or similar for versioning)
+models/**/*.pkl
+
+# Results (generated — reproducible from code)
+results/plots/*.png
+results/shap/*.png
+results/shap/*.parquet
+
+# Streamlit
+.streamlit/
+
+# Logs
+*.log
+logs/

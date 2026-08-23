@@ -1,0 +1,19 @@
+{
+  "model": "xgboost",
+  "horizon": 12,
+  "auroc": 0.7798,
+  "auprc": 0.0877,
+  "precision": 0.1457,
+  "recall": 0.2938,
+  "f1": 0.1948,
+  "specificity": 0.9694,
+  "fpr": 0.0306,
+  "fnr": 0.7062,
+  "tp": 1183,
+  "tn": 219771,
+  "fp": 6938,
+  "fn": 2844,
+  "threshold": 0.72,
+  "n_positive": 4027,
+  "n_negative": 226709
+}
